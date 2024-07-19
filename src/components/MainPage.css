@@ -135,5 +135,29 @@
 }
 
 @media (max-width: 375px) {
+    .recipe-container{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+
+    .omelette{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+    }
     
+    .omelette-image{
+        width: 100%;
+    }
+
+    .recipe-title-description{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 0 20px 0 20px;
+    }
 }
