@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/receta-de-omelette/static/css/main.5b86ceb6.css",
+    "main.css": "/receta-de-omelette/static/css/main.56cda110.css",
     "main.js": "/receta-de-omelette/static/js/main.701fa8c7.js",
     "static/media/image-omelette.jpeg": "/receta-de-omelette/static/media/image-omelette.98c8ed59c5ae707e58ea.jpeg",
     "index.html": "/receta-de-omelette/index.html",
-    "main.5b86ceb6.css.map": "/receta-de-omelette/static/css/main.5b86ceb6.css.map",
+    "main.56cda110.css.map": "/receta-de-omelette/static/css/main.56cda110.css.map",
     "main.701fa8c7.js.map": "/receta-de-omelette/static/js/main.701fa8c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b86ceb6.css",
+    "static/css/main.56cda110.css",
     "static/js/main.701fa8c7.js"
   ]
 }
